@@ -3,7 +3,7 @@
 
 <img alt="Cyborg Cassowary" src="http://www.cyborgcassowary.com/wp-content/themes/stitch-child-01/screenshot.png" style="display:block; margin:0 auto; width:100%; max-width:650px; height:auto; border:#222 solid 1px;" />
 
-<p><a href="http://www.cyborgcassowary.com">Cyborg Cassowary</a> is a record keeper for Ryan Hettler's and Kate Miterkó's jam session ideas. Jam sessions also include the occasional covers. </p>
+<p><a href="http://www.cyborgcassowary.com">Cyborg Cassowary</a> is a music record keeper for Ryan Hettler's and Kate Miterkó's jam session ideas. Jam sessions also include the occasional covers. </p>
 
 <p>Cyborg Cassowary is built on Wordpress with a child theme of <a href="https://wordpress.org/themes/stitch">Stitch</a> and uses <a href="https://github.com/jarednova/timber/">Timber</a> for theme modifications.</p>
 
